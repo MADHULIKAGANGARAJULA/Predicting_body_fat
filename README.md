@@ -1,2 +1,2 @@
 # Predicting_body_fat
-The goal of the "Predicting body fat" project is to calculate body fat percentages using a variety of body measures.
+The goal of the "Predicting body fat" project is to calculate body fat percentages using a variety of body measures. In order to estimate body fat percentage, machine learning models are applied after exploratory data analysis (EDA) has been used to identify the correlations between variables. It seeks to shed light on whether body measurements are reliable indicators of body fat and how well these algorithms can calculate body fat percentage from the information at hand.
